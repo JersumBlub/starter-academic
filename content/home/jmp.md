@@ -25,9 +25,6 @@ content:
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-  show_date: "false"
-  showthedate: "false"
-  hidedate: "true"
 
 design:
   # Choose a view for the listings:
