@@ -7,6 +7,8 @@ weight = 90  # Order that this section will appear.
 title = "Working Papers"
 subtitle = ""
 
+showthedate = "false"
+
 [content]
   # Page type to display. E.g. project.
   page_type = "working"
