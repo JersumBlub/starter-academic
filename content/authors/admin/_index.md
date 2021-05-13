@@ -46,13 +46,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/WJesseWood
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=W5OUEVgAAAAJ&hl=en&oi=sra
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
@@ -65,7 +65,7 @@ social:
   link: 'cv/Wood_CV.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "woodwil2@msu.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
