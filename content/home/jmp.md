@@ -13,6 +13,7 @@ title: Job Market Paper
 subtitle: ""
 
 showthedate: false
+hidedate: true
 
 content:
   # Page type to display. E.g. post, talk, publication...
