@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: '/Wood_CV.pdf'
+  link: 'static/media/Wood_CV.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -75,4 +75,4 @@ I am a Ph.D. student in economics at Michigan State University and will be on th
 
 I am a research assistant for the Education Policy Innovation Collaborative under Dr. Katharine Strunk. My work has focused on how student achievement varies under changes to the number of new school openings, availability of school choice and mobility, and exposure to different teacher quality.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "/Wood_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/media/Wood_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
