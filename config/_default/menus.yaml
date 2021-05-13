@@ -4,9 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: '#about'
-    weight: 10
   - name: JMP
     url: '#jmp'
     weight: 20
@@ -22,5 +19,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: cv/Wood_CV.pdf
+    url: 'Wood_CV.pdf'
     weight: 60
