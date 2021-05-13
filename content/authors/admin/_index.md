@@ -6,7 +6,7 @@ title: W. Jesse Wood
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate of Economics at Michigan State University
+role: PhD Candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -21,6 +21,7 @@ interests:
 - Economics of Education
 - Policy Analysis
 - Applied Econometrics
+- Labor Economics
 
 # Education to show in About widget
 education:
