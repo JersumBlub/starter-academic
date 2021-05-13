@@ -12,9 +12,6 @@ weight: 30
 title: Job Market Paper
 subtitle: ""
 
-showthedate: false
-hidedate: true
-
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: jmp
@@ -28,6 +25,9 @@ content:
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  show_date: "false"
+  showthedate: "false"
+  hidedate: "true"
 
 design:
   # Choose a view for the listings:
