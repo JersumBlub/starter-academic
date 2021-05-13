@@ -6,7 +6,7 @@ title: W. Jesse Wood
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate of Economics at Michigan State University
+role: PhD Candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include economics of education, policy analysis, applied econometrics, public economics and labor economics.
 
 # Interests to show in About widget
 interests:
@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads\cv\Wood_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
