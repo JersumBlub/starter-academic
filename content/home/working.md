@@ -7,7 +7,7 @@ weight = 90  # Order that this section will appear.
 title = "Working Papers"
 subtitle = ""
 
-showthedate = "false"
+
 
 [content]
   # Page type to display. E.g. project.
@@ -18,6 +18,7 @@ showthedate = "false"
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
+  showthedate = "false"
 
   # Show a "See all pages" link underneath the featured content?
   link_to_archive = false
