@@ -39,10 +39,14 @@ To help us develop this template and software sustainably under the MIT license,
 * [Version 5.0 Beta 3 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-beta-3-february-2021&#x2F;)
 * [Version 5.0 Beta 2 (January 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-beta-2-january-2021&#x2F;)
 <<<<<<< HEAD
+<<<<<<< HEAD
 * [Version 5.0 Beta 1 (December 2020)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-beta-1-december-2020&#x2F;)<!--Updated at 1620868215598-->
 =======
 * [Version 5.0 Beta 1 (December 2020)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-beta-1-december-2020&#x2F;)<!--Updated at 1620867971299-->
 >>>>>>> parent of e8db533 (Merge branch 'master' of https://github.com/JesseWood/starter-academic)
+=======
+* [Version 5.0 Beta 1 (December 2020)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-beta-1-december-2020&#x2F;)<!--Updated at 1620868274366-->
+>>>>>>> c400df9bd4be3c39c4f135992b909b74a09d8fce
 
 <!--END_SECTION:news-->
 
