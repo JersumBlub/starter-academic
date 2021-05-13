@@ -12,6 +12,8 @@ weight: 30
 title: Job Market Paper
 subtitle: ""
 
+showthedate: false
+
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: jmp
