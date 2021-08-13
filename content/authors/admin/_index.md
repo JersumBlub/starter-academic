@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Economics
+  - course: PhD in Economics
     minor: test
     institution: Michigan State University
     year: Expected 2022
