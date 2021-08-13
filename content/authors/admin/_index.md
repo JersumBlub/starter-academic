@@ -26,14 +26,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Economics
-    institution: Michigan State University
-	minor: test
-    year: Expected 2022
-  - course: MA in Economics
-    institution: University of Texas - Austin
-	minor: test
-    year: 2016
   - course: BS in Applied Mathematics
 	minor: test
     institution: Auburn University
