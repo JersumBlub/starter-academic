@@ -1,5 +1,5 @@
 ---
-title: "Faculty Race Match Effect on Student Achievement"
+title: "Beyond the Classroom: Student-Faculty Race Matching on Student Test Scores"
 authors: ["W. Jesse Wood", "Ijun Lai"]
 publication_types: ["2"]
 date: 2020-07-26
