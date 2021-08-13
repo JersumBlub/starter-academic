@@ -28,8 +28,8 @@ education:
   courses:
   - course: PhD in Economics
     institution: Michigan State University
-	minor: test
     year: Expected 2022
+	minor: test
   - course: MA in Economics
     institution: University of Texas - Austin
 	minor: test
