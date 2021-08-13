@@ -27,6 +27,7 @@ interests:
 education:
   courses:
   - course: PhD in Economics
+	institution: Test
     institution: Michigan State University
     year: Expected 2022
   - course: MA in Economics
