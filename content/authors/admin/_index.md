@@ -32,6 +32,7 @@ education:
     year: Expected 2022
   - course: MA in Economics
     institution: University of Texas - Austin
+	minor: ""
     year: 2016
   - course: BS in Applied Mathematics
     institution: Auburn University
