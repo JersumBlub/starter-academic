@@ -29,14 +29,11 @@ education:
   - course: PhD in Economics
     institution: Michigan State University
     year: Expected 2022
-	minor: test
   - course: MA in Economics
     institution: University of Texas - Austin
-	minor: test
     year: 2016
   - course: BS in Applied Mathematics
     institution: Auburn University
-	minor: test
     year: 2015
 
 # Social/Academic Networking
