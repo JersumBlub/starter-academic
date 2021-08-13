@@ -27,12 +27,12 @@ interests:
 education:
   courses:
     - course: PhD in Economics
-    institution: Michigan State University
     minor: test
+    institution: Michigan State University
     year: Expected 2022
   - course: MA in Economics
-    institution: University of Texas - Austin
     minor: test
+    institution: University of Texas - Austin
     year: 2016
   - course: BS in Applied Mathematics
     minor: Minor in Business
