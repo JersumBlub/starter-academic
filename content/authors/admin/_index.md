@@ -31,7 +31,7 @@ education:
     institution: Michigan State University
     year: Expected 2022
   - course: MA in Economics
-    minor: test
+    minor:
     institution: University of Texas - Austin
     year: 2016
   - course: BS in Applied Mathematics
