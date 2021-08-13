@@ -73,6 +73,6 @@ highlight_name: false
 
 I am a Ph.D. student in economics at Michigan State University and an APPAM 2021 Equity and Inclusion Fellow. My research interests include economics of education, policy analysis, applied econometrics, public economics and labor economics. I am currently on the job market, and I will be available for interviews in November at the APPAM Fall Conference and in January at the AEA Annual Conference.
 
-I have worked as a research assistant for the Education Policy Innovation Collaborative under Dr. Katharine Strunk. My work has focused on how student achievement varies under changes to the number of new school openings, availability of school choice and mobility, and exposure to different teacher quality.
+I have worked as a research assistant for the Education Policy Innovation Collaborative under Dr. Katharine Strunk. My work has focused on causal links between student achievement under various settings, such as changes to the number of new school openings, availability of school choice and mobility, and exposure to different teacher quality measures.
 
 Here is a link to my {{< staticref "cv/Wood_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
