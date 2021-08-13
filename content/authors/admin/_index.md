@@ -28,14 +28,12 @@ education:
   courses:
   - course: PhD in Economics
     institution: Michigan State University
-	minor: Dual Major with Economics of Educaiton
     year: Expected 2022
   - course: MA in Economics
     institution: University of Texas - Austin
     year: 2016
   - course: BS in Applied Mathematics
     institution: Auburn University
-	minor: Minor in Business
     year: 2015
 
 # Social/Academic Networking
