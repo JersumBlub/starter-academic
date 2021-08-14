@@ -27,7 +27,7 @@ interests:
 education:
   courses:
   - course: PhD in Economics
-    minor: test
+    minor: Dual Major with Economics of Education
     institution: Michigan State University
     year: Expected 2022
   - course: MA in Economics
