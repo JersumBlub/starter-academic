@@ -1,5 +1,5 @@
 ---
-title: "Student-Teacher Race Match Effect on the Timing of Student with Disability Identification"
+title: "When are students identified to have learning disabilities? The effect of student-teacher race match."
 authors: ["W. Jesse Wood"]
 publication_types: ["2"]
 date: 2021-07-27
