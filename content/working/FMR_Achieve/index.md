@@ -1,5 +1,5 @@
 ---
-title: "Beyond the Classroom: Student-Faculty Race Matching on Student Test Scores"
+title: "Beyond the classroom: The effect of student-faculty race matching on student test scores."
 authors: ["W. Jesse Wood", "Ijun Lai"]
 publication_types: ["2"]
 date: 2020-07-26
