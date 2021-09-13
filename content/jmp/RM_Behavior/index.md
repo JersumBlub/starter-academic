@@ -1,5 +1,5 @@
 ---
-title: "Student-Teacher Race Matching on Student Learning & Social Skills and Behavioral Outcomes"
+title: "The Student-Teacher Race Match Effect on Learning Skills and Behavioral Outcomes"
 
 authors: ["W. Jesse Wood"]
 publication_types: ["2"]
