@@ -56,9 +56,9 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/wjessewood
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -74,7 +74,7 @@ email: "woodwil2@msu.edu"
 highlight_name: false
 ---
 
-I am a Ph.D. student in economics at Michigan State University and an APPAM 2021 Equity and Inclusion Fellow. My research interests include economics of education, policy analysis, applied econometrics, public economics and labor economics. I am currently on the job market, and I will be available for interviews in November at the APPAM Fall Conference and in January at the AEA Annual Conference.
+I am a Ph.D. student in economics at Michigan State University and an APPAM 2021 Equity and Inclusion Fellow. My research interests include economics of education, policy analysis, applied econometrics, public economics and labor economics. I am currently on the job market and am available for interviews by telephone or Zoom.
 
 I have worked as a research assistant for the Education Policy Innovation Collaborative under Dr. Katharine Strunk. My work has focused on causal links between student achievement under various settings, such as changes to the number of new school openings, availability of school choice and mobility, and exposure to different teacher quality measures.
 
