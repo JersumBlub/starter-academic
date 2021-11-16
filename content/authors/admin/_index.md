@@ -74,8 +74,6 @@ email: "woodwil2@msu.edu"
 highlight_name: false
 ---
 
-I am a Ph.D. student in economics at Michigan State University and an APPAM 2021 Equity and Inclusion Fellow. My research interests include economics of education, policy analysis, applied econometrics, public economics and labor economics. I am currently on the job market and am available for interviews by telephone or Zoom.
+W. Jesse Wood is an applied microeconomist and APPAM 2021 Equity and Inclusion Fellow. His research interests include the economics of education, policy analysis, applied econometrics, public economics, and labor economics. His job-market paper studies the effect of student-teacher race matching on non-cognitive outcomes, i.e. going beyond test scores. He finds that students of color—when matched to a teacher of the same race—earn higher GPA, show greater effort and cooperation, and have fewer absences and suspensions. Jesse has experience working on interdisciplinary teams through the Education Policy Innovation Collaborative (https://epicedpolicy.org/), where he has studied the causal links between student achievement and new school openings, school choice and mobility, and various measures of teacher quality. Prior to starting his graduate studies, Jesse led a team of engineers to quickly design airfields, roads, and tank trails for U.S. Army bases, and to present the resulting plans to high-ranking military officers for their approval. Thus, he has experience working in a high-stakes, team-based environment under a time constraint and clearly communicating the results of his work to key decision makers.  
 
-I have worked as a research assistant for the Education Policy Innovation Collaborative under Dr. Katharine Strunk. My work has focused on causal links between student achievement under various settings, such as changes to the number of new school openings, availability of school choice and mobility, and exposure to different teacher quality measures.
-
-Here is a link to my {{< staticref "cv/Wood_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+Here is a link to his {{< staticref "cv/Wood_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
